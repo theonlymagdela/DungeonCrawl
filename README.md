@@ -3,7 +3,9 @@
 One of the group projects created while learning in codecool.
 
 Team:
-Piotr Mludzik (https://github.com/piotrmludzik?tab=repositories)
+
+Piotr Mludzik (https://github.com)
+
 Piotr Janiszewski
 
 Below is a school description of the project:
