@@ -1,5 +1,13 @@
 # Dungeon Crawl (sprint 2)
 
+One of the group projects created while learning in codecool.
+
+Team:
+Piotr Mludzik (https://github.com/piotrmludzik?tab=repositories)
+Piotr Janiszewski
+
+Below is a school description of the project:
+
 ## Story
 
 Last week you created a pretty good [Roguelike](https://en.wikipedia.org/wiki/Roguelike) game. It already has some features but the players have no opportunity to save their games. It can be annoying especially when you have to leave the game aside suddenly.
