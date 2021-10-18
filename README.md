@@ -4,9 +4,9 @@ One of the group projects created while learning in codecool.
 
 Team:
 
-Piotr Mludzik (https://github.com/piotrmludzik)
+[Piotr Mludzik] (https://github.com/piotrmludzik)
 
-Piotr Janiszewski
+[Piotr Janiszewski] (https://github.com/janiszewskipeter)
 
 Below is a school description of the project:
 
