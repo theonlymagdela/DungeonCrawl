@@ -4,7 +4,7 @@ One of the group projects created while learning in codecool.
 
 Team:
 
-[Piotr Mludzik](https://github.com/piotrmludzik)
+[Piotr Młudzik](https://github.com/piotrmludzik)
 
 [Piotr Janiszewski](https://github.com/janiszewskipeter)
 
